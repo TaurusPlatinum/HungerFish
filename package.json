@@ -1,0 +1,29 @@
+{
+  "name": "HungerGames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quick_run.js",
+  "directories": {
+    "jest": "jest"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.5.4",
+    "socket.io": "^2.4.1"
+  }
+}
