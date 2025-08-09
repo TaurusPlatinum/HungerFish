@@ -42,7 +42,7 @@ This project presents an interactive visualization of a predator-prey simulation
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](public/src/screenshot.png)
 
 ---
 
